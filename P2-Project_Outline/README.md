@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We have decided to make a hilarious app that will display dad jokes and then you will click a button to generate a new joke. The app will also have authentication so that users can save their favorite jokes. Users will also be able to create jokes, rate jokes, and a leader board of the results will be displayed.
 ### Features
-Include Features here
+Authentication
+HTTP calls to dad jokes
+Joke generate button
+Persistence - database storage
+Dusplay joke when open
 ### Technologies
-Include Technologies here
+Java Javascript HTML CSS MYSQL Hibernate Thymeleaf
 ### What I'll Have to Learn
-Include what you will need to learn here
+API Calls
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/GmhDFMq5/dad-jokes
